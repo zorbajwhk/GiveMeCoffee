@@ -2,6 +2,9 @@
 
 A serverless client-side React application project, utilizing the Yelp API to search for coffee in the area.
 
+App Promo Video (Currently only available in Japanese):
+https://youtu.be/vncAlrcswjU
+
 ## Steps to run on local
 
     1. clone your repository

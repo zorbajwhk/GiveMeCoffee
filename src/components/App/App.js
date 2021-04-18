@@ -12,15 +12,9 @@ class App extends React.Component {
 
     this.state = {
       businesses: [],
-      videoModalOpen: false,
     };
 
     this.searchYelp = this.searchYelp.bind(this);
-    this.openVideoModal = this.openVideoModal.bind(this)
-  }
-
-  openVideoModal () {
-    this.setState({videoModalOpen: true});
   }
 
   searchYelp(location, sortBy) {
