@@ -2,7 +2,12 @@
 
 A serverless client-side React application project, utilizing the Yelp API to search for coffee in the area.
 
-App Promo Video (Currently only available in Japanese):
+## Project URL
+
+https://GiveMeCoffee.ZorbaJobsWong.com
+
+## App Promo Video (Currently only available in Japanese):
+
 https://youtu.be/vncAlrcswjU
 
 ## Steps to run on local
